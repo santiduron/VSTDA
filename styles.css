@@ -1,0 +1,19 @@
+body {
+    margin-left: 30px;
+    margin-top: 30px;
+}
+
+h3 {
+    background-color: lightblue;
+    border-style: solid lightblue;
+    padding: 30px 20px;
+}
+
+#toDoDiv {
+    background-color: lightgrey;
+}
+
+#priorityDiv {
+    border: solid, darkgrey;
+    background-color: red, yellow, green;
+}
